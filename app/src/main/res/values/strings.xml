@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">vko 9</string>
+
+
+    <string-array name="theaters">
+        <item>Pepsi Max 0.5</item>
+        <item>Pepsi Max 1.5</item>
+        <item>Coca-Cola Zero 0.5</item>
+        <item>Coca-Cola Zero 1.5</item>
+        <item>Fanta Zero 0.5</item>
+    </string-array>
+
+</resources>
